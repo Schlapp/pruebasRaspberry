@@ -28,4 +28,5 @@ board.on("ready", function() {
 FUNCIONO!
 
 
-
+Para instalar el meteor se siguio
+https://github.com/4commerce-technologies-AG/meteor
